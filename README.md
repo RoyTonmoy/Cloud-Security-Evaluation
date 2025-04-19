@@ -83,6 +83,4 @@ The project includes an attack tree diagram that illustrates various attack vect
 
 The project emphasizes the necessity for strong security measures in cloud environments, highlighting specific vulnerabilities and threats that need to be mitigated to protect cloud computing infrastructure.
 
-## References
 
-This section includes a list of references and academic sources that have informed the research and conclusions of this project.
